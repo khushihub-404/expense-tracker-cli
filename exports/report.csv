@@ -1,0 +1,4 @@
+id,date,category,type,amount
+1,2026-05-19,Food,expense,500.0
+2,2026-05-19,travel,expense,600.0
+3,2026-05-19,food,expense,500.0
